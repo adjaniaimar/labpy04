@@ -4,6 +4,11 @@ NAMA  : Nevillaz Sahrul Barokah <br>
 NIM   : 312510352 <br>
 KELAS : TI25C5
 ### PRAKTIKUM
+Flowchart:
+
+![flowchart](https://github.com/user-attachments/assets/16565dc9-05ab-417d-9619-675dfe854dda)
+
+
 Program:
 
 <img width="1984" height="1262" alt="program_datamahasiswa" src="https://github.com/user-attachments/assets/596b0535-d15f-4378-8f4d-d601e7384ebc" />
